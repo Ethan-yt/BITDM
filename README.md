@@ -13,5 +13,16 @@
 
 报告+程序 (jupyter notebook)：
 
-- [Wine Reviews](https://github.com/Ethan-yt/BITDM/blob/master/assgnment1/wine-reviews.ipynb)
-- [Trending YouTube Video Statistics](https://github.com/Ethan-yt/BITDM/blob/master/assgnment1/youtube-new.ipynb)
+- [Wine Reviews](https://github.com/Ethan-yt/BITDM/blob/master/assignment1/wine-reviews.ipynb)
+- [Trending YouTube Video Statistics](https://github.com/Ethan-yt/BITDM/blob/master/assignment1/youtube-new.ipynb)
+
+## 2. 关联规则挖掘
+
+数据集选择：
+
+- [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
+
+报告+程序 (jupyter notebook)：
+
+- [Wine Reviews](https://github.com/Ethan-yt/BITDM/blob/master/assignment2/assignment2.ipynb)
+
